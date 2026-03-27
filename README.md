@@ -1,2 +1,3 @@
 # number_theory
-the snippets code everyone need doing cp
+The snippets code everyone need doing cp
+Author- Yasir Rahman
